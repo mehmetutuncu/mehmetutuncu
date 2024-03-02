@@ -65,6 +65,12 @@
         <img src="https://redis.io/images/favicons/apple-touch-icon.png" alt="redis" width="40" height="40" />
     </a>
 </p>
+
+<style>
+    a {
+        text-decoration: none;
+    }
+</style>
 <!--
 **mehmetutuncu/mehmetutuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
