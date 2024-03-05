@@ -64,6 +64,9 @@
     <a href="https://redis.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://redis.io/images/favicons/apple-touch-icon.png" alt="redis" width="40" height="40" />
     </a>
+    <a href="https://lumen.laravel.com/docs/10.x" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://lumen.laravel.com/img/favicons/favicon-32x32.png" alt="lumen" width="40" height="40" />
+    </a>
 </p>
 
 
