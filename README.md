@@ -67,6 +67,9 @@
     <a href="https://lumen.laravel.com/docs/10.x" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://lumen.laravel.com/img/favicons/favicon-32x32.png" alt="lumen" width="40" height="40" />
     </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://fastapi.tiangolo.com/img/favicon.png" alt="fastapi" width="40" height="40" />
+    </a>
 </p>
 
 
